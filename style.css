@@ -1,0 +1,33 @@
+body{
+
+background-color: dodgerblue;
+color: black;
+
+}
+
+.heading{
+
+width: 80%;
+font-size: larger;
+
+}
+
+.name_of_obj{
+
+color: crimson;
+
+}
+
+#camera{
+
+width: 350px;
+height: 300px;
+border: 3px solid black;
+
+}
+
+#result_obj_name , #result_obj_acc{
+
+color: crimson;
+
+}
